@@ -1,4 +1,4 @@
-# `uavs3d-git`
+# `uavs3d`
 
 universal recipe for [user repo](../themartiancompany/ur).
 
